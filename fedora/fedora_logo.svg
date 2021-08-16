@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="907.78003"
+   height="415.07999"
+   id="svg2855"
+   sodipodi:docname="fedora_logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1584"
+     inkscape:window-height="934"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.43677983"
+     inkscape:cx="623.88413"
+     inkscape:cy="472.77825"
+     inkscape:window-x="143"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2855"
+     inkscape:pagecheckerboard="0"
+     showguides="false" />
+  <defs
+     id="defs2857">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath836">
+      <path
+         d="M 0,48 H 48 V 0 H 0 Z"
+         id="path834" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath852">
+      <path
+         d="M 0,48 H 48 V 0 H 0 Z"
+         id="path850" />
+    </clipPath>
+  </defs>
+  <g
+     id="g828"
+     inkscape:label="ultramarine-anaconda-sus"
+     transform="matrix(1.3333333,0,0,-1.3333333,149.50697,253.374)">
+    <g
+       id="g830"
+       transform="matrix(4.5390993,0,0,4.5390993,-74.012967,-81.659465)">
+      <g
+         id="g832"
+         clip-path="url(#clipPath836)">
+        <g
+           id="g838"
+           transform="translate(24,42.689)">
+          <path
+             d="m 0,0 c 10.322,0 18.689,-8.367 18.689,-18.689 0,-10.322 -8.367,-18.689 -18.689,-18.689 -10.322,0 -18.689,8.367 -18.689,18.689 C -18.689,-8.367 -10.322,0 0,0"
+             style="fill:#000890;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path840" />
+        </g>
+        <g
+           id="g842"
+           transform="translate(39.7659,18.0272)">
+          <path
+             d="m 0,0 c -2.783,0.64 -5.504,1.591 -7.364,2.674 -5.09,2.962 -6.851,9.448 -14.032,7.039 5.674,-6.62 -3.843,-8.67 -10.285,-9.305 2.302,-6.581 8.549,-11.309 15.915,-11.309 7.213,0 13.352,4.534 15.766,10.901"
+             style="fill:#fefeff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path844" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:600;font-size:83.2969px;line-height:1.25;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';fill:#000890;fill-opacity:1;stroke-width:2.08242"
+     x="321.0976"
+     y="246.7645"
+     id="text13535"><tspan
+       sodipodi:role="line"
+       id="tspan13533"
+       x="321.0976"
+       y="246.7645"
+       style="stroke-width:2.08242">Ultramarine</tspan></text>
+</svg>

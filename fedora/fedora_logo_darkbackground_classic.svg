@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="907.78003"
+   height="415.07999"
+   id="svg2855"
+   sodipodi:docname="fedora_logo_darkbackground.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1584"
+     inkscape:window-height="934"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.43677983"
+     inkscape:cx="360.79475"
+     inkscape:cy="376.42725"
+     inkscape:window-x="209"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     inkscape:pagecheckerboard="true" />
+  <defs
+     id="defs2857">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect27644"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24621">
+      <path
+         d="M 0,48 H 48 V 0 H 0 Z"
+         id="path24619" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24637">
+      <path
+         d="M 0,48 H 48 V 0 H 0 Z"
+         id="path24635" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27640">
+      <path
+         d="m 15.7659,-24.6618 c -2.782999,0.64 -5.504,1.591 -7.3639999,2.674 -5.0899994,2.962 -6.8510001,9.448 -14.0320002,7.039 5.67399968,-6.620001 -3.8430004,-8.67 -10.2849999,-9.305 2.302,-6.581 8.5489997,-11.308999 15.91499985713,-11.308999 C 7.2129002,-35.562799 13.351901,-31.0288 15.7659,-24.6618"
+         style="display:none;fill:#fefeff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="path27642" />
+      <path
+         id="lpe_path-effect27644"
+         style="fill:#fefeff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         class="powerclip"
+         d="M -23.689,-42.378 H 23.689 V 5 h -47.378 z m 39.4549,17.7162 C 13.351901,-31.0288 7.2129002,-35.562799 -1.0014287e-4,-35.562799 -7.3661003,-35.562799 -13.6131,-30.8348 -15.9151,-24.2538 c 6.4419995,0.635 15.95899958,2.684999 10.2849999,9.305 7.1810001,2.409 8.9420008,-4.077 14.0320002,-7.039 1.8599999,-1.083 4.5810009,-2.034 7.3639999,-2.674" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="358.13211"
+     y="207.9872"
+     id="text3024"><tspan
+       sodipodi:role="line"
+       id="tspan3022"
+       x="358.13211"
+       y="207.9872" /></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:40px;line-height:1.25;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold'"
+       x="358.13211"
+       y="207.9872"
+       id="text16191"><tspan
+         sodipodi:role="line"
+         id="tspan16189"
+         x="358.13211"
+         y="207.9872" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:86.2428px;line-height:1.25;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';fill:#ffffff;stroke-width:2.15607"
+       x="324.70309"
+       y="250.30142"
+       id="text18285"><tspan
+         sodipodi:role="line"
+         id="tspan18283"
+         x="324.70309"
+         y="250.30142"
+         style="stroke-width:2.15607">Ultramarine</tspan></text>
+    <g
+       id="g24613"
+       inkscape:label="ultramarine-anaconda-sus"
+       transform="matrix(1.3333333,0,0,-1.3333333,134.44418,273.07085)">
+      <g
+         id="g24631" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g24615"
+       transform="matrix(6.81027,0,0,-6.81027,19.702512,373.39293)">
+      <g
+         id="g24617"
+         clip-path="url(#clipPath24621)">
+        <g
+           id="g24623"
+           transform="translate(24,42.689)">
+          <path
+             d="m 0,0 c 10.322,0 18.689,-8.367 18.689,-18.689 0,-10.322 -8.367,-18.689 -18.689,-18.689 -10.322,0 -18.689,8.367 -18.689,18.689 C -18.689,-8.367 -10.322,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path24625"
+             clip-path="url(#clipPath27640)"
+             inkscape:path-effect="#path-effect27644"
+             inkscape:original-d="m 0,0 c 10.322,0 18.689,-8.367 18.689,-18.689 0,-10.322 -8.367,-18.689 -18.689,-18.689 -10.322,0 -18.689,8.367 -18.689,18.689 C -18.689,-8.367 -10.322,0 0,0" />
+        </g>
+        <g
+           id="g24627"
+           transform="translate(39.7659,18.0272)" />
+      </g>
+    </g>
+  </g>
+</svg>
