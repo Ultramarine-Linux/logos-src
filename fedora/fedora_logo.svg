@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="907.78003"
-   height="415.07999"
+   width="698.1825"
+   height="151.5267"
    id="svg2855"
    sodipodi:docname="fedora_logo.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -33,19 +33,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1584"
-     inkscape:window-height="934"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="0.43677983"
-     inkscape:cx="623.88413"
-     inkscape:cy="472.77825"
-     inkscape:window-x="143"
+     inkscape:zoom="0.62613223"
+     inkscape:cx="502.29006"
+     inkscape:cy="18.366727"
+     inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2855"
      inkscape:pagecheckerboard="0"
-     showguides="false" />
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2857">
     <clipPath
@@ -66,7 +70,7 @@
   <g
      id="g828"
      inkscape:label="ultramarine-anaconda-sus"
-     transform="matrix(1.3333333,0,0,-1.3333333,149.50697,253.374)">
+     transform="matrix(0.72349585,0,0,-0.72349585,70.714481,94.460391)">
     <g
        id="g830"
        transform="matrix(4.5390993,0,0,4.5390993,-74.012967,-81.659465)">
@@ -94,13 +98,38 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-weight:600;font-size:83.2969px;line-height:1.25;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';fill:#000890;fill-opacity:1;stroke-width:2.08242"
-     x="321.0976"
-     y="246.7645"
-     id="text13535"><tspan
+     style="font-weight:600;font-size:80.4611px;line-height:1.25;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates Semi-Bold';fill:#000890;fill-opacity:1;stroke-width:2.01152"
+     x="172.28215"
+     y="103.3097"
+     id="text13535"
+     transform="scale(0.97420026,1.026483)"><tspan
        sodipodi:role="line"
        id="tspan13533"
-       x="321.0976"
-       y="246.7645"
-       style="stroke-width:2.08242">Ultramarine</tspan></text>
+       x="172.28215"
+       y="103.3097"
+       style="stroke-width:2.01152">Ultramarine</tspan></text>
+  <rect
+     style="fill:none;stroke-width:4.7811;stroke-linejoin:round;paint-order:stroke markers fill"
+     id="rect145"
+     width="847.09882"
+     height="267.49658"
+     x="-93.40625"
+     y="-56.62373"
+     ry="85.093399" />
+  <rect
+     style="fill:none;stroke-width:4.7811;stroke-linejoin:round;paint-order:stroke markers fill"
+     id="rect42"
+     width="755.88354"
+     height="203.45145"
+     x="-31.80081"
+     y="-28.124529"
+     ry="85.093399" />
+  <rect
+     style="fill:none;stroke-width:5.02728;stroke-linejoin:round;paint-order:stroke markers fill"
+     id="rect165"
+     width="698.1825"
+     height="151.5267"
+     x="0"
+     y="0"
+     ry="75.763351" />
 </svg>
