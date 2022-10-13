@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="550.05" height="64.466" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <text x="-7.6463947" y="63.286121" fill="#000890" font-family="'Montserrat Alternates'" font-size="83.297px" font-weight="600" stroke-width="2.0824" style="line-height:1.25" xml:space="preserve"><tspan x="-7.6463947" y="63.286121" stroke-width="2.0824">Ultramarine</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="550.05" height="64.466" version="1.1"><metadata/><text x="-7.646" y="63.286" fill="#000890" stroke-width="2.082" font-family="'Montserrat Alternates'" font-size="83.297" font-weight="600" xml:space="preserve" style="line-height:1.25"><tspan x="-7.646" y="63.286" stroke-width="2.082">Ultramarine</tspan></text></svg>
